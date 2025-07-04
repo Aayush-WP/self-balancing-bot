@@ -63,7 +63,7 @@ This project involves building and programming a self-balancing two-wheeled robo
 ---
 
 ## 📂 Project Structure
-
+```
 self-balancing-robot/
 │
 ├── ArduinoCode/
@@ -82,7 +82,7 @@ self-balancing-robot/
 │ ├── sim_demo.mp4 # CoppeliaSim simulation demo
 │
 └── README.md # This file
-
+```
 
 
 

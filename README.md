@@ -93,8 +93,8 @@ self-balancing-robot/
 
 - ![Front View](images/Front_view.jpg)
 - ![Side View](images/Left_side_view.jpg)
-- 📹 [Real-world balancing demo](videos/real_demo.mp4)
-- 📹 [CoppeliaSim simulation demo](videos/sim_demo.mp4)
+- 📹 [Real-world balancing demo](https://drive.google.com/file/d/1TASlhm38LrdFF2DKkzitYK4zi-xVYJ32/view?usp=sharing)
+- 📹 [CoppeliaSim simulation demo](https://drive.google.com/file/d/1k-QRjwjyxQuBz5CmGuk7gGzb7FKd2U4b/view?usp=sharing)
 
 ---
 

@@ -60,31 +60,6 @@ This project involves building and programming a self-balancing two-wheeled robo
   - Use **virtual gripper** to pick and place nearby blocks
 - All virtual tasks successfully demonstrated in simulation environment
 
----
-
-## 📂 Project Structure
-```
-self-balancing-robot/
-│
-├── ArduinoCode/
-│ ├── main_balancer.ino # Full PID and motor control logic
-│ ├── gripper_test.ino # Partial test code for servo gripper
-│
-├── simulation/
-│ ├── coppeliasim_task.ttt # Simulation scene (placeholder)
-│
-├── images/
-│ ├── front_view.jpg
-│ ├── side_view.jpg
-│
-├── videos/
-│ ├── real_demo.mp4 # Real robot balancing demo
-│ ├── sim_demo.mp4 # CoppeliaSim simulation demo
-│
-└── README.md # This file
-```
-
-
 
 ---
 

@@ -76,7 +76,6 @@ self-balancing-robot/
 ├── images/
 │ ├── front_view.jpg
 │ ├── side_view.jpg
-│ ├── internal_wiring.jpg
 │
 ├── videos/
 │ ├── real_demo.mp4 # Real robot balancing demo
